@@ -38,4 +38,3 @@ How the information is displayed, is up to you. We would love to see your creati
 
 Good Luck!
 
-# pop-quiz-frontend-s-v6
