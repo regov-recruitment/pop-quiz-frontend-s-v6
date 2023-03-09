@@ -7,7 +7,6 @@
 
 ### Coding Challenge
 
-# React-Native Technical Assessment  
 - Create a repository on Github called ``Regov-technical``
 
 - Using React Native, create a mobile dashboard for corona virus, using this API [Here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest).
