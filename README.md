@@ -9,7 +9,10 @@
 
 - Create a repository on Github called ``Regov-technical``
 
-- Using React Native, create a mobile dashboard for corona virus, using any of the following API's [Here 1 ](https://api-ninjas.com/api/covid19). or [Here 2 ](https://postman-toolboxes.github.io/covid-19/#featured-collections). or [Here 3 ] (https://rapidapi.com/collection/coronavirus-covid-19)
+- Using React Native, create a mobile dashboard for corona virus, using any of the following API's :
+ - [API 1 ](https://api-ninjas.com/api/covid19)
+ - [API 2 ](https://postman-toolboxes.github.io/covid-19/#featured-collections)
+ - [API 3 ](https://rapidapi.com/collection/coronavirus-covid-19)
 
 ## Aesthetic Requirements
 How the information is displayed, is up to you. We would love to see your creativity as well as aesthetic design.
