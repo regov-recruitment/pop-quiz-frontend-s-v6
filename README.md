@@ -11,8 +11,8 @@
 
 - Using React Native, create a mobile dashboard for corona virus, using any of the following API's :
  - [API 1 ](https://api-ninjas.com/api/covid19)
- - [API 2 ](https://postman-toolboxes.github.io/covid-19/#featured-collections)
- - [API 3 ](https://rapidapi.com/collection/coronavirus-covid-19)
+ - [API 2 ](https://rapidapi.com/collection/coronavirus-covid-19)
+ - [API 3 ](https://postman-toolboxes.github.io/covid-19/#featured-collections)
 
 ## Aesthetic Requirements
 How the information is displayed, is up to you. We would love to see your creativity as well as aesthetic design.
